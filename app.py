@@ -20,6 +20,7 @@ from flask import *
 
 app = Flask(__name__)
 app.static_folder = "static"
+app.template_folder = "templates"
 user_token = None
 
 @app.route('/')
