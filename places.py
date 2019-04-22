@@ -1,7 +1,7 @@
 import requests
 import json
 
-APIKEY = "AIzaSyBFy_T6NOGizsaY-C8RP2AjKGwmsglSchc "
+APIKEY = ""
 
 results = []
 
